@@ -8,7 +8,7 @@ Louise's play "Fever" fell close to its fundraising goal. Showing Louise visual 
 To better demonstrate to Louise the outcomes of the campaigns based on their goals, I used the existing Kickstarter data set and extracted the percentage successful, percentage failed, and percentage canceled based on the fundraising goal. 
 I then analyzed the outcomes of a specific subcategory based on launch date. This provides Louise with a detailed picture of successful, failed and canceled outcomes by month. 
 ### Analysis of Outcomes Based on Launch Date
-![](../../../Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](../../../Theater_Outcomes_vs_Launch.png)
 I used the Kickstarter data set to create a visualization of the outcomes based on launch date for the subcategory Theater. I created a pivot table and added filters of parent category and years. Then added outcomes as a column, date created conversion as a row, and count of outcomes as values within the pivot table fields to display the correct data I was looking for. I filtered by theater, which provided the requested results. The final step was taking the filtered results from the pivot table and creating a line chart that was easily understandable and readable. 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goal](../../../Outcomes_vs_Goals.png)
